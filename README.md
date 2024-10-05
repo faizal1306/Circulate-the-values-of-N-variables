@@ -17,5 +17,7 @@ Using the slicing concept rotate the list
 ## Program:
 
 ## Output:
+![Uploading image.png…]()
+
 
 ## Result:
